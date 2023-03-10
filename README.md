@@ -15,3 +15,5 @@ https://www.coursera.org/account/accomplishments/verify/J9TZK9DGZQE9
 https://www.coursera.org/account/accomplishments/verify/HZAHAS4HSPAF
 - Certificate of Python Project for Data Science (IBM Coursera)
 https://www.coursera.org/account/accomplishments/verify/8DSUGE3GXL8M
+- Certificate of Databases and SQL for Data Science with Python
+https://www.coursera.org/account/accomplishments/verify/F4SZ8DWRCC8D
