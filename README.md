@@ -1,4 +1,4 @@
-# My_software_related_certificates
+# My_IT_certificates
 ### In this file, you can find the certificates I have earned related to the IT.
 # CERTIFICATES
 - Certificate of Data Analysis Path (patika.dev)
