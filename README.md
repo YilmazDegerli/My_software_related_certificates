@@ -1,5 +1,5 @@
-# My_IT_certificates
-### In this file, you can find the certificates I have earned related to the IT.
+# My_IT_Certificates
+### In this file, you can find the certificates I have earned related to the Information Technology (IT).
 # CERTIFICATES
 - Certificate of Data Analysis Path (patika.dev)
 https://app.patika.dev/certificates/4dfc74c3
